@@ -45,7 +45,7 @@ This project demonstrates the effective design of a normalized relational databa
 
 ## Analysis Code 
 
-# SQL code helps to analyze and aswer the following questions
+### SQL code helps to analyze and aswer the following questions:
 
 - Lists the employee number, last name, first name, sex, and salary of each employee.
 - Lists the first name, last name, and hire date for the employees who were hired in 1986.
