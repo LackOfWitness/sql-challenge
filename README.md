@@ -45,7 +45,7 @@ This project demonstrates the effective design of a normalized relational databa
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername) - Project development and analysis.
+- [Sergei N. Sergeev](https://github.com/LackOfWitness) - Project development and analysis.
 
 ## Credits and Sources
 
