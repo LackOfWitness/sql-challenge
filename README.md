@@ -1,4 +1,4 @@
-<video controls src="../Navy Blue Animated Project Readme Video.mp4" title="Title"></video>
+<video controls src="Navy Blue Animated Project Readme Video.mp4" title="Title"></video>
 
 # Postgres SQL Employee Database Analysis
 
