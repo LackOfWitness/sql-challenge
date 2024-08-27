@@ -1,4 +1,4 @@
-<video controls src="Navy Blue Animated Project Readme Video.mp4" title="Title"></video>
+![alt text](<Project Analysis README graphic.png>)
 
 # Postgres SQL Employee Database Analysis
 
